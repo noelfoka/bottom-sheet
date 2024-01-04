@@ -2,8 +2,9 @@
   "name": "bottom-sheet",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bottom-sheet.js",
   "scripts": {
+    "start": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/noelfoka/bottom-sheet/issues"
   },
-  "homepage": "https://github.com/noelfoka/bottom-sheet#readme"
+  "homepage": "https://github.com/noelfoka/bottom-sheet#readme",
+  "dependencies": {
+    "lit": "^3.1.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
