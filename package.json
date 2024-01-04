@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/noelfoka/bottom-sheet#readme",
   "dependencies": {
-    "lit": "^3.1.0"
+    "lit": "^3.1.0",
+    "lit-fontawesome": "^0.1.3"
   },
   "devDependencies": {
     "lite-server": "^2.6.1"
